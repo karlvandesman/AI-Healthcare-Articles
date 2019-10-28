@@ -4,11 +4,11 @@
 
 Here I will be summarizing worldwide papers about the use of AI in Healthcare and medicine. On each paper, it will be covered some main characteristics (discussed later). This project aims to help review and help about the "reproductibility crisis" around AI.
 
-As a first goal, I want to cover the articles (that, of course, are applicable) in the reference section of "High-performance medicine: the convergence of human and artificial intelligence". Naturally, this goal can be expanded/renewed in order to cover more recent research on the field.
+As a first goal, I want to cover the articles (that, of course, are applicable) in the reference section of "[High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)". Naturally, this goal can be expanded/renewed in order to cover more recent research on the field.
 
 Contributions are welcomed.
 
-What will be shown or analyzed:
+This is what will be shown or analyzed:
 - Title
 - Abstract
 - Date
